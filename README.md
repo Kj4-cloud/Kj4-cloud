@@ -1,5 +1,14 @@
-# 💫 About Me:
-Hi there, I'm Karan Jadhav <br><br>I'm an aspiring Software Development Engineer (SDE) and Full-Stack Developer from India, passionate about building scalable web applications and solving real-world problems through technology.<br><br>I'm currently focused on mastering **JavaScript, React, Node.js, Express.js, and MongoDB** while strengthening my understanding of Data Structures & Algorithms. I enjoy learning new technologies, contributing to open-source projects, and building projects that improve my development skills.<br><br>🚀 What I'm Currently Working On<br><br>* 🌱 Learning Full-Stack Development (MERN Stack)<br>* 💻 Improving my Data Structures & Algorithms skills<br>* 🤝 Contributing to Open Source<br>* 📚 Exploring AI-powered applications and modern backend development<br><br>💡 Interests<br><br>* Full-Stack Web Development<br>* Backend Engineering<br>* Open Source<br>* Artificial Intelligence<br>* Cloud Technologies<br><br>> "Every project is an opportunity to learn something new and become a better developer."<br>
+## 💫 About Me
+
+Hi, I'm **Karan Jadhav** 👋
+🚀 Aspiring **Software Development Engineer (SDE)** and Full-Stack Developer from India.
+
+* 🌱 Learning the **MERN Stack** and **Data Structures & Algorithms**
+* 💻 Passionate about building scalable web applications
+* 🤝 Exploring Open Source and AI-powered development
+* ⚡ Always learning and improving through real-world projects
+
+> *"Code. Learn. Build. Repeat."*
 
 
 ## 🌐 Socials:

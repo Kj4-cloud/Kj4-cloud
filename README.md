@@ -41,9 +41,11 @@ Hi, I'm **Karan Jadhav** 👋
 
 
 
-
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Kj4-cloud&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=Kj4-cloud&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
